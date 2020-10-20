@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_source_script">
+    <sys_ux_lib_source_script action="INSERT_OR_UPDATE">
+        <engine>6</engine>
+        <externals/>
+        <inner_components/>
+        <name>ne-timesheet</name>
+        <script><![CDATA[var __TECTONIC__ne_timesheet=function(e){var t={};function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}return n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)n.d(r,o,function(t){return e[t]}.bind(null,o));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="",n(n.s=7)}([function(e,t){e.exports=__TECTONIC__$servicenow_ui_renderer_snabbdom},function(e,t){e.exports=function(e){var t=[];return t.toString=function(){return this.map(function(t){var n=function(e,t){var n=e[1]||"",r=e[3];if(!r)return n;if(t&&"function"==typeof btoa){var o=function(e){return"/*# sourceMappingURL=data:application/json;charset=utf-8;base64,"+btoa(unescape(encodeURIComponent(JSON.stringify(e))))+" */"}(r),i=r.sources.map(function(e){return"/*# sourceURL="+r.sourceRoot+e+" */"});return[n].concat(i).concat([o]).join("\n")}return[n].join("\n")}(t,e);return t[2]?"@media "+t[2]+"{"+n+"}":n}).join("")},t.i=function(e,n){"string"==typeof e&&(e=[[null,e,""]]);for(var r={},o=0;o<this.length;o++){var i=this[o][0];"number"==typeof i&&(r[i]=!0)}for(o=0;o<e.length;o++){var u=e[o];"number"==typeof u[0]&&r[u[0]]||(n&&!u[2]?u[2]=n:n&&(u[2]="("+u[2]+") and ("+n+")"),t.push(u))}},t}},function(e,t,n){(e.exports=n(1)(!1)).push([e.i,':host{box-sizing:border-box;line-height:var(--now-line-height,1.25);font-family:var(--now-font-family,"Source Sans Pro","Helvetica Neue",helvetica,arial,sans-serif)}:host([hidden]){display:none}*,:after,:before{box-sizing:border-box}',""])},function(e,t,n){var r=n(2);e.exports="string"==typeof r?r:r.toString()},function(e,t){e.exports=__TECTONIC__$servicenow_ui_core},function(e,t,n){"use strict";n(0);var r=n(0),o=a(r),i=n(4),u=a(n(3));function a(e){return e&&e.__esModule?e:{default:e}}(0,i.createCustomElement)("x-238172-ne-timesheet",{renderer:{type:o.default},view:function(e,t){t.updateState;return(0,r.createElement)("div",null,"hello world")},styles:u.default})},function(e,t,n){"use strict";n(5)},function(e,t,n){e.exports=n(6)}]);]]></script>
+        <script_link/>
+        <sys_class_name>sys_ux_lib_source_script</sys_class_name>
+        <sys_created_by>w.geek6</sys_created_by>
+        <sys_created_on>2020-10-20 14:02:35</sys_created_on>
+        <sys_id>39ddc40bbd923ccfafd964eabbd0fbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ne-timesheet</sys_name>
+        <sys_package display_value="ne-timesheet" source="x_238172_ne_time_0">46d357582f402010fece11c82799b654</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ne-timesheet">46d357582f402010fece11c82799b654</sys_scope>
+        <sys_update_name>sys_ux_lib_source_script_39ddc40bbd923ccfafd964eabbd0fbab</sys_update_name>
+        <sys_updated_by>w.geek6</sys_updated_by>
+        <sys_updated_on>2020-10-20 14:02:35</sys_updated_on>
+        <type>script</type>
+    </sys_ux_lib_source_script>
+</record_update>
